@@ -53,28 +53,40 @@ Notes you edit through the edit button in the Add Card dialog are updated immedi
 
 Switching (when the Add window is small, shortcut is CTRL-F):
 https://imgur.com/FMd5AEm.png![image](https://github.com/user-attachments/assets/46502b3e-c215-48e7-b17d-7dc1127e5d7d)
+
 Editing:
 https://imgur.com/5aFCVTN.png![image](https://github.com/user-attachments/assets/de17d20d-9d20-4bf7-b8d1-a768ca5a436b)
+
 "Timeline" (CTRL + hover to see the info):
 https://i.imgur.com/5cWOVM3.png![image](https://github.com/user-attachments/assets/30f4c485-18d4-4886-ae81-0d03b5373b4f)
+
 Tag info (a little wonky atm):
 https://i.imgur.com/uT5ti6l.png![image](https://github.com/user-attachments/assets/ce6614fd-5e48-47fb-b485-f0e9c94d6370)
+
 Night mode styling:
 https://imgur.com/pxG7o2K.png![image](https://github.com/user-attachments/assets/feae9811-633c-4d72-98ca-93d9f2396bbc)
+
 Reader in night mode styling:
 https://i.imgur.com/rxKwadw.png![image](https://github.com/user-attachments/assets/9f4d3f29-bb8c-4863-896c-2eaa11e1b221)
+
 Making Clozes:
 ![image](https://github.com/user-attachments/assets/cfad7a8c-2a27-4842-9a4c-a329dc83933f)
+
 Tomato Timer:
 https://imgur.com/2Uvfhb3.png![image](https://github.com/user-attachments/assets/c3930504-83f1-4b40-aabc-3c72198a1302)
+
 "Full Screen"
 ![image](https://github.com/user-attachments/assets/075272a8-3b58-40fd-8c5b-9abfd8285427)
+
 "Pages Read"
 https://i.imgur.com/9Nwlm6g.png![image](https://github.com/user-attachments/assets/a2cd24a5-c215-4c4e-8fe9-fe08a490b13a)
+
 "Stats"
 https://i.imgur.com/XDNQPh3.png![image](https://github.com/user-attachments/assets/e03b425f-d87e-4c89-843b-e84849465500)
+
 "Review before continuing to read"
 https://i.imgur.com/n9P8zGb.png![image](https://github.com/user-attachments/assets/2c6eb1e7-7cb0-4715-9d97-707aa4ec07b6)
+
 ![image](https://github.com/user-attachments/assets/7d2680d1-b5d8-401c-b075-ccfc6590ca90)
 
 -------
